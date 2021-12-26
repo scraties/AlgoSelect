@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="tsml11_3_2020">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/tsml11_3_2020.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/tsml11_3_2020.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/tsml11_3_2020.jar!/" />
+    </SOURCES>
+  </library>
+</component>
